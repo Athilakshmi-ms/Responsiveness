@@ -7,9 +7,6 @@
         padding: 20px;
     }
     #small div{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
         padding: 10px 0px;
     }
     #medium, #large{
